@@ -1,4 +1,4 @@
-const { ElvClient } = require ("elv-client-js/src/ElvClient");
+const { ElvClient } = require("@eluvio/elv-client-js/src/ElvClient");
 var urljoin = require ("url-join");
 var fs = require('fs');
 
